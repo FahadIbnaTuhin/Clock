@@ -1,5 +1,5 @@
 # Analog Clock
 
-[Visit my website](https://fahadibnatuhin.github.io/clock/)
+[Visit my website](https://fahadibnatuhin.github.io/Clock/)
 
 
